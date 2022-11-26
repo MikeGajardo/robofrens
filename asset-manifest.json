@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/MikeGajardo/robofrens/static/css/main.5ab3f8ad.css",
+    "main.js": "/MikeGajardo/robofrens/static/js/main.04eb3f55.js",
+    "static/js/787.28cb0dcd.chunk.js": "/MikeGajardo/robofrens/static/js/787.28cb0dcd.chunk.js",
+    "static/media/SEGA.woff": "/MikeGajardo/robofrens/static/media/SEGA.47b4bfa94ef243af4a5b.woff",
+    "index.html": "/MikeGajardo/robofrens/index.html",
+    "main.5ab3f8ad.css.map": "/MikeGajardo/robofrens/static/css/main.5ab3f8ad.css.map",
+    "main.04eb3f55.js.map": "/MikeGajardo/robofrens/static/js/main.04eb3f55.js.map",
+    "787.28cb0dcd.chunk.js.map": "/MikeGajardo/robofrens/static/js/787.28cb0dcd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5ab3f8ad.css",
+    "static/js/main.04eb3f55.js"
+  ]
+}
